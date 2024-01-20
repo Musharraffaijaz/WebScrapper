@@ -35,7 +35,8 @@ This Python script is a web scraper designed to search and retrieve job postings
 3. Install the required Python libraries:
 
     ```bash
-    pip install -r requirements.txt
+   pip install requests beautifulsoup4
+    
     ```
 
 4. Run the script:
