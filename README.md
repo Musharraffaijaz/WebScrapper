@@ -1,6 +1,4 @@
-Sure, here's a sample GitHub README for the web scraper you've created. Feel free to modify it according to your specific project details:
 
----
 
 # Company Job Postings Scraper
 
